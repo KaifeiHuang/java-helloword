@@ -1,0 +1,34 @@
+{
+  "retCode": 200,
+  "errorMessages": "",
+  "data": [
+    {
+      "id": 1,
+      "name": "james",
+      "age": 35,
+      "sex": "M",
+      "number": 23,
+      "team": {
+        "id": 1,
+        "name": "Lakers",
+        "birth": "1989-12-30",
+        "address": "LA",
+        "center": "centps"
+      }
+    },
+    {
+      "id": 2,
+      "name": "james",
+      "age": 35,
+      "sex": "M",
+      "number": 23,
+      "team": {
+        "id": 2,
+        "name": "Warriors",
+        "birth": "1989-12-30",
+        "address": "LA",
+        "center": "Oracle"
+      }
+    }
+  ]
+}
